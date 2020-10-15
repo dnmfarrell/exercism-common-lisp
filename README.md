@@ -1,6 +1,6 @@
 Exercism Common Lisp
 --------------------
-My solutions for Exercism's [Common Lisp track](https://exercism.io/tracks/common-lisp).
+My solutions for the Exercism [Common Lisp track](https://exercism.io/tracks/common-lisp).
 
 Copyright 2020 David Farrell
 
