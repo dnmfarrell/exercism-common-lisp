@@ -1,0 +1,5 @@
+README.md
+.exercism
+*.pdf
+*.json
+*-test.lisp
